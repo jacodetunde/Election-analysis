@@ -47,16 +47,17 @@ with open(file_to_load) as election_data:
         if (votes > winning_count) and (vote_percentage > winning_percentage):
             # If true then set winning_count =vote and winning_percentage = vote_percentage
             winning_count = votes
+            winning_percentage = vote_percentage
+            # And set the winning_candidate equal to the candidates's name 
             winning_candidate = candidate_name
 # To do: print out the winning candidate,vote count and percentage to the terminal
-        print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n") 
-        
-        
+        print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")  
     winning_candidate_summary = (
-    f"----------------------\n"
-    f" Winner: {winning_candidate}\n"
-    f" Winning Vote Count: { winning_count:,}\n"
-    f" Winning Percentage: { winning_percentage:.1f}%\n"
-    f"------------------------\n")
+        f"----------------------\n"
+        f" Winner: {winning_candidate}\n"
+        f" Winning Vote Count: { winning_count:,}\n"
+        f" Winning Percentage: { winning_percentage:.1f}%\n"
+        f"------------------------\n")
     print(winning_candidate_summary)
-        
+          
+    
