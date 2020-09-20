@@ -35,17 +35,17 @@ A Colorado Board of Election employee has given me the following tasks to comple
 - Calculate the percentage of votes of each county
 - Determine the winner of the election based on popular vote.
 - Determine the county with largest number of turnout.
-#### Election_Audit Results
+##### Election_Audit Results
 -There are total 369,711 votes in congressional election
 Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
 The following are each county votes and the percentage of the total:
-County Votes:
-Jefferson: 10.5% (38,855)
+**County Votes:
+**Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+Arapahoe: 6.7% (24,801)**
 -Jefferson had 38,855 votes which is 10.5% of the total votes
 -Denver had 306,055 votes which is 82.8% of the total votes
 -Arapahoe had 24,801 votes whis 6.7% of the total votes.
