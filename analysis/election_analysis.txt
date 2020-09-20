@@ -9,9 +9,7 @@ Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 ------------------------
- Winner : Denver
- Winning county count: 306,055
- Winning Percentage: 82.8%
+ Largest County Turnout : Denver
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
