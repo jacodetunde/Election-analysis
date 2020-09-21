@@ -41,7 +41,8 @@ A Colorado Board of Election employee has given me the following tasks to comple
 - Jefferson had 38,855 votes which is 10.5% of the total votes
 - Denver had 306,055 votes which is 82.8% of the total votes
 - Arapahoe had 24,801 votes whis 6.7% of the total votes.
-- Based on the above results **Denver had the largest number of votes.
+- Based on the above results **Denver had the largest number of votes**.
+
 The following are the candidates that participated in the election and their votes:
 - Charles Casper Stockham had 85,213 votes which is 23.0% of the total votes.
 - Diana DeGette had 272,892 votes which is 73.8% of the total votes.
